@@ -1,4 +1,4 @@
-# Trabalho TP2 de Tópicos de programação em plataformas emergentes (TPPE) do professor Andre Lanna
+# Trabalho TP2 de Técnicas de programação em plataformas emergentes (TPPE) do professor Andre Lanna
 
 ## Integrantes
 
